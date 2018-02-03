@@ -1,0 +1,4 @@
+name: GodComplexChallenge
+version: ${project.version}
+main: me.matthewe.challenge.GodComplexChallenge
+authors: [MatthewE]
